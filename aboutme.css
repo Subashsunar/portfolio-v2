@@ -89,20 +89,6 @@ html {
   text-decoration: none;
 }
 
-/* This styling is for footer of the page. */
-footer {
-  background-color: black;
-  text-align: center;
-  padding-top: 90px;
-  color: white;
-  height: 200px;
-}
-
-footer h3 {
-  letter-spacing: 2px;
-  font-size: 20px;
-}
-
 @media screen and (max-width: 668px) {
   .space {
     height: 60px;
